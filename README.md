@@ -1,8 +1,1 @@
-# Hi there!
-
-My name is Ariel Antigua, I'm from Dominican Republic working in CiberSecurity.
-
-more to come!
-
-# Skills
-a few.
+![aredan's github stats](https://github-readme-stats.vercel.app/api?username=aredan&theme=react&show_icons=true)
