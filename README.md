@@ -4,5 +4,6 @@
 - Doing a lot of Kubernetes (k3s - RKE2) and trying to get onboard with CI/CD stuff.
 - Still loving infra!!! Ansible and Terraform, dont forget my old friend vCenter :)
 - vSphere is my hypervisor of choice!
+- Operating AS207036 for aaNetworks infra (https://aanetworks.org), for fun!
 
 ![aredan's github stats](https://github-readme-stats.vercel.app/api?username=aredan&theme=react&show_icons=true)
